@@ -1,0 +1,2 @@
+## Please put your license into this file.
+License: Red and White.
