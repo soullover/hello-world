@@ -1,4 +1,5 @@
 The first working file to record user names and user addresses.
 
 John: MA,US
-King: Nanjing,CN
+Jay: MA,US
+King: NJ,CN
